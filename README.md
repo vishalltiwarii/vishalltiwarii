@@ -26,7 +26,7 @@ My day-to-day work involves SQL development, PostgreSQL, Python-based data proce
 
 **Databases:** SQL Server, PostgreSQL, Azure SQL
 
-**Programming:** Python, SQL, PowerShell
+**Programming:** Python, SQL, PowerShell, Streamlit, FASTAPI, REST
 
 **Data Engineering:** Pandas, PyArrow, Parquet, ETL Pipelines
 
